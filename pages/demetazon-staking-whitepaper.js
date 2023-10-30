@@ -49,7 +49,6 @@ const DemetazonStakingWhitepaper = () => {
           <li className="mb-0">Security and auditing</li>
           <li className="mb-0">Liquidity provision and DeFi intergration</li>
           <li className="mb-0">Cross-chain compatebility</li>
-          <li>About Dev</li>
         </ul>
       </b>
       <div className="my-0 mx-[!important] absolute top-[0px] left-[0px] h-[190px] flex flex-row items-center justify-center gap-[534px] z-[1] text-center text-[22px] font-goblin-one lg:gap-[250px] md:flex-col md:gap-[0px]">
@@ -427,18 +426,6 @@ const DemetazonStakingWhitepaper = () => {
             </p>
           </div>
         </div>
-      </div>
-      <div className="my-0 mx-[!important] absolute top-[4364px] left-[2px] w-[1187px] flex flex-row items-start justify-end pt-[800px] pb-0 pr-[100px] pl-0 box-border gap-[374px] z-[3] lg:h-[3000px] lg:flex-row lg:gap-[300px] lg:pt-0 lg:pr-80 lg:pb-[300px] lg:box-border md:flex-col md:pl-[50px] md:pt-[4900px] md:pr-0 md:box-border">
-        <div className="relative w-[57px] h-7 overflow-hidden shrink-0" />
-        <button
-          className="cursor-pointer [border:none] p-0 bg-[transparent] relative rounded-xl [background:linear-gradient(180deg,_#0df6e8,_#000)] shadow-[0px_0px_100px_#0df6e8] w-[149px] h-7 [&.animate]:animate-[1s_ease_0s_infinite_normal_forwards_jello-horizontal] opacity-[1]"
-          onClick={onFrameButtonClick}
-          data-animate-on-scroll
-        >
-          <b className="absolute top-[6px] left-[38px] text-base font-inconsolata text-white text-center">
-            About Dev
-          </b>
-        </button>
       </div>
       <div className="my-0 mx-[!important] absolute top-[3210px] left-[58px] flex flex-row items-start justify-start gap-[789px] z-[4] lg:gap-[580px] md:flex-col md:gap-[0px] md:items-end md:justify-start md:pl-0 md:pt-[4800px] md:pr-0 md:box-border md:max-w-[350px]">
         <div className="relative w-[52px] h-[38px] overflow-hidden shrink-0" />
