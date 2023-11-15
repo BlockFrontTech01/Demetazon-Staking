@@ -37,7 +37,7 @@ const DemetazonStaking = () => {
   }, []);
 
   const onButton4Click = useCallback(() => {
-    window.open("https://jeff-space.vercel.app");
+    window.open("https://blockfronttech.vercel.app");
   }, []);
 
   useEffect(() => {

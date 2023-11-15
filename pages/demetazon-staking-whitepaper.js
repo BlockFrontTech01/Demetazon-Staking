@@ -32,7 +32,7 @@ const DemetazonStakingWhitepaper = () => {
   }, []);
 
   const onFrameButtonClick = useCallback(() => {
-    window.open("https://jeff-space.vercel.app");
+    window.open("https://blockfronttech.vercel.app");
   }, []);
 
   return (
