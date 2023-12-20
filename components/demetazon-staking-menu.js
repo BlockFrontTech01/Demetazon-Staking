@@ -42,7 +42,7 @@ const DemetazonStakingMenu = () => {
   }, []);
 
   const onButton2Click = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   return (
