@@ -37,7 +37,7 @@ const DemetazonStaking = () => {
   }, []);
 
   const onButton4Click = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://t.me/jeff96655");
   }, []);
 
   useEffect(() => {
